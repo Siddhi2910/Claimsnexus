@@ -1,0 +1,25 @@
+# temp/debug scripts
+tmp_*.py
+
+# env/secrets
+.env
+.env.*
+!.env.example
+
+# local db/cache
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+.pytest_cache/
+
+# virtual env
+.venv/
+.venv_old_linux/
+
+# frontend builds/deps
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+node_modules/

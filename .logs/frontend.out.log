@@ -1,0 +1,24 @@
+
+> claimsnexus-frontend@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://127.0.0.1:3000
+  - Network:      http://127.0.0.1:3000
+  - Experiments (use with caution):
+    · typedRoutes
+
+ ✓ Starting...
+ ✓ Ready in 2.1s
+ ○ Compiling /claims/[id] ...
+ ✓ Compiled /claims/[id] in 7s (2638 modules)
+ HEAD /analytics 200 in 9771ms
+ HEAD / 200 in 9778ms
+ HEAD /review-queue 200 in 9840ms
+ HEAD /claims/6192cf24-4474-48f4-9bc8-3838896109dc 200 in 10060ms
+ GET / 200 in 76ms
+ GET / 200 in 55ms
+ ○ Compiling /claims/submit ...
+ ✓ Compiled /claims/submit in 1369ms (2619 modules)
+ ✓ Compiled /review-queue in 410ms (1356 modules)
+ ✓ Compiled /claims/[id] in 459ms (1360 modules)
