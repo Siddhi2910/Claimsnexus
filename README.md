@@ -109,19 +109,29 @@ The following diagram shows how ClaimsNexus processes a healthcare claim from su
 
 ### Dashboard / Operations Cockpit
 
-![ClaimsNexus Dashboard](./assets/projectimg1.jpeg)
+![ClaimsNexus Dashboard](./assets/claimimg1.jpeg)
 
-### Claim Submission Flow
+### Operation Overview
 
-![ClaimsNexus Claim Submission](./assets/projectimg2.jpeg)
+![ClaimsNexus Operation Overview](./assets/claimimg2.jpeg)
 
-### Multi-Agent Claim Decision Page
+### Recent Claim Section
 
-![ClaimsNexus Claim Decision](./assets/projectimg3.jpeg)
+![ClaimsNexus Recent Claims](./assets/claimimg3.jpeg)
 
-### Analytics / Review Insights
+### Analytics 
 
-![ClaimsNexus Analytics](./assets/projectimg4.jpeg)
+![ClaimsNexus Analytics](./assets/claimimg4.jpeg)
+
+### Claim Submission Form
+
+![ClaimsNexus Claim Submission](./assets/claimimg5.jpeg)
+
+### Human Review Queue / Case Monitoring
+
+![ClaimsNexus Review Queue](./assets/claimimg6.jpeg)
+
+---
 
 
 ##Video Explanation OF Claimsnexus
